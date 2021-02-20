@@ -1,0 +1,15 @@
+{
+  "name": "resp",
+  "version": "1.0.0",
+  "description": "resd",
+  "main": "resp.ls",
+  "dependencies": {
+    "num2fraction": "^1.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "david bernal",
+  "license": "ISC"
+}
